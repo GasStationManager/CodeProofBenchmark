@@ -8,6 +8,6 @@ natural numbers and lists. Each problem statement consists of a natural language
 and the formal specification consisting of up to two theorem statements. Currently in Lean only; translation to
 other languages is welcome.
 
-#Files
+# Files
 - easy.jsonl: the problem statements in JSONL format. Fields include "description", "function_signature", "theorem_signature", "theorem2_signature"
 - CodeProofBenchmark/EasyBenchmark.lean: the solutions including function implementations and proofs. Requires Mathlib. 
