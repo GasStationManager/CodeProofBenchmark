@@ -9,5 +9,5 @@ and the formal specification consisting of up to two theorem statements. Current
 other languages is welcome.
 
 # Files
-- easy.jsonl: the problem statements in JSONL format. Fields include "description", "function_signature", "theorem_signature", "theorem2_signature"
-- CodeProofBenchmark/EasyBenchmark.lean: the solutions including function implementations and proofs. Requires Mathlib. 
+- `easy.jsonl`: the problem statements in JSONL format. Fields include "description", "function_signature", "theorem_signature", "theorem2_signature"
+- `CodeProofBenchmark/EasyBenchmark.lean`: the solutions including function implementations and proofs. Requires Mathlib. 
